@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Maemoto</h1>
 <h3 align="center">a student studying CS @Stanford</h3>
 
-- 🔭 I’m currently working on [datematch](https://github.com/davidmaemoto/datematch)
+- 🔭 I’m currently working on [trading_algo](https://github.com/davidmaemoto/trading_algo)
 
 - 🌱 I’m currently learning **algorithms, data structures & ML**
-
-- 👯 I’m looking to work on [trading_algo](https://github.com/davidmaemoto/trading_algo)
 
 - 💬 Ask me about **anything!**
 
