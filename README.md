@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Maemoto</h1>
-<h3 align="center">a student studying CS @Stanford</h3>
+<h3 align="center">a student studying CS & Data Science @Stanford</h3>
 
 - 🔭 I’m currently working on [trading_algo](https://github.com/davidmaemoto/trading_algo)
 
