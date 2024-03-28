@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [trading_algo](https://github.com/davidmaemoto/trading_algo)
 
-- 🌱 I’m currently learning **algorithms, data structures & ML**
+- 🌱 I’m currently learning about **AI techniques, Data cleaning & Machine Learning**
 
 - 💬 Ask me about **anything!**
 
