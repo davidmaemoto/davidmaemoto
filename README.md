@@ -22,36 +22,11 @@ Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford Univ
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
-### Methodologies:
-- 🧠 Machine Learning (Supervised, Reinforcement Learning, Q-Learning)
+### Proficient Methodologies:
+- 🧠 Machine Learning (Supervised, Unsupervised, Reinforcement Learning, Q-Learning)
 - 📖 Natural Language Processing
-- 📈 Predictive Analytics
-- 📊 Data Visualization
-
----
-
-## Experience
-
-### AI Engineering Research Assistant
-**Stanford Institute for Human-Centered AI (HAI)**  
-*August 2024 – Present*  
-- Built a Chrome extension for over 1,000 users, leveraging LLMs to enhance social media transparency.
-
-### Software Engineering Intern
-**Databricks**  
-*June 2024 – September 2024*  
-- Deployed AI RAG LLM to automate content creation, saving 10,000 hours annually and increasing viewership by 11.2%.
-- Fine-tuned proprietary models, improving utilization efficiency by 4.1% and reducing inference latency by 3.8%.
-
-### Full-Stack Software Engineering Intern
-**Gatsby TV**  
-*November 2023 – June 2024*  
-- Developed a video recommendation DAG algorithm, increasing user engagement by 34% through improved content delivery.
-
-### Machine Learning Engineering Intern
-**Stanford Facilities Energy Management**  
-*November 2022 – June 2023*  
-- Designed an ML model to analyze campus energy use, reducing consumption by 8.6% and operational costs by 11.5%.
+- 📈 Deep Learning
+- 📊 Probabilistic & Stochastic Methods
 
 ---
 
@@ -69,19 +44,6 @@ Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford Univ
 ### Cardinal Fuel
 *January 2024 – March 2024*  
 - Developed a meal-planning website for Stanford dining halls, accessed by 1,200+ students for real-time nutritional data.
-
----
-
-## Leadership & Awards
-
-### Leadership
-- Vice President for Projects, **Stanford Energy Club** (October 2023 – Present)
-- MATLAB Student Ambassador, **MathWorks** (October 2023 – September 2024)
-
-### Awards
-- Susquehanna International Group Discovery Day Fellow (April 2024)
-- BNP Paribas Opportunity Summit Fellow (March 2024)
-- Stanford Machine Learning Certification (August 2020)
 
 ---
 
