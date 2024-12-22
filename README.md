@@ -3,7 +3,7 @@
 <h3 align="center">a student studying CS & Math @Stanford</h3>
 
 ## About Me
-Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford University (Class of 2026). I have a strong foundation in software engineering, AI, and machine learning, with practical experience across industry and academia. My interests include scalable AI solutions, human-centered technology, and predictive modeling. 
+Hi! I'm David Maemoto, a junior studying Computer Science and Mathematics at Stanford University. I have a strong foundation in software engineering, machine learning, and continuous mathematical methods, with practical experience across industry (prev SWE @Databricks) and academia (currently @Stanford HAI). My interests include building reliable & scalable AI solutions, human-centered technology, and predictive modeling using neural networks. 
 
 ## Skills
 
