@@ -14,6 +14,7 @@ Hi! I'm David Maemoto, a junior studying Computer Science and Mathematics at Sta
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ### Tools & Frameworks:
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
