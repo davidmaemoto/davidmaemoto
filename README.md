@@ -20,7 +20,6 @@ Hi! I'm David Maemoto, a junior studying Computer Science and Mathematics at Sta
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
 ### Proficient Methodologies:
 - 🧠 Machine Learning (Supervised, Unsupervised, Reinforcement Learning, Q-Learning)
