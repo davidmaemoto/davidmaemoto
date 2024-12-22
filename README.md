@@ -1,8 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm David Maemoto</h1>
 <h3 align="center">a student studying CS & Math @Stanford</h3>
-
-
-# David Maemoto
 
 ## About Me
 Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford University (Class of 2026). I have a strong foundation in software engineering, AI, and machine learning, with practical experience across industry and academia. My interests include scalable AI solutions, human-centered technology, and predictive modeling. 
@@ -10,25 +8,25 @@ Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford Univ
 ## Skills
 
 ### Programming Languages:
-- Python
-- C++
-- C
-- MATLAB
-- SQL
-- JavaScript (React, HTML, CSS)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+- ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Tools & Frameworks:
-- Flask
-- Docker
-- Kubernetes
-- AWS
-- Microsoft Office Suite
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
 ### Methodologies:
-- Machine Learning (Supervised, Reinforcement Learning, Q-Learning)
-- Natural Language Processing
-- Predictive Analytics
-- Data Visualization
+- 🧠 Machine Learning (Supervised, Reinforcement Learning, Q-Learning)
+- 📖 Natural Language Processing
+- 📈 Predictive Analytics
+- 📊 Data Visualization
 
 ---
 
@@ -92,5 +90,3 @@ Hi! I'm David Maemoto, a Computer Science and Mathematics major at Stanford Univ
 - LinkedIn: [linkedin.com/in/david-maemoto](http://linkedin.com/in/david-maemoto)
 - Portfolio: [davidmaemoto.netlify.app](https://davidmaemoto.netlify.app/)
 - GitHub: [github.com/davidmaemoto](https://github.com/davidmaemoto)
-
-
