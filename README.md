@@ -30,7 +30,7 @@ Hi! I'm David Maemoto, a junior studying Computer Science and Mathematics at Sta
 
 ---
 
-## Projects
+## 2024 Projects
 
 ### CS 229: NBA Machine Learning Model
 *September 2024 – December 2024*  
@@ -51,4 +51,3 @@ Hi! I'm David Maemoto, a junior studying Computer Science and Mathematics at Sta
 - Email: [davidmaemoto@stanford.edu](mailto:davidmaemoto@stanford.edu)
 - LinkedIn: [linkedin.com/in/david-maemoto](http://linkedin.com/in/david-maemoto)
 - Portfolio: [davidmaemoto.netlify.app](https://davidmaemoto.netlify.app/)
-- GitHub: [github.com/davidmaemoto](https://github.com/davidmaemoto)
